@@ -16,7 +16,7 @@ def add_expense():
   if not date:
     date = datetime.now().strftime('%Y:%m:%d')
     time = datetime.now().strftime('%I:%M:%S %p') 
-  
+
   with open('expenses.csv','a') as f:
     f.write(f"{amount},{category},{note},{date},{time}\n")
 
@@ -28,7 +28,7 @@ def view_expenses():
 
 def total_spent():
   total = 0
-  
+
   try:
     with open('expenses.csv','r') as f:
       for line in f:
@@ -44,7 +44,7 @@ def total_spent():
     print("Something went wrong",e)
 
 def filter_by_category():
-  category_filter = input("Enter the categpry you want to filter:\n").lower()
+  category_filter = input("Enter the category you want to filter:\n").lower()
 
   try:
     with open('expenses.csv','r') as f:
@@ -53,7 +53,7 @@ def filter_by_category():
       for line in f:
         amount, category, note, date = line.strip().split(",", 3)
         if category.lower() == category_filter:
-          print(f"{date} | {amount} | {note}")
+          print(f"{category} | {date} | {amount} | {note}")
 
   except FileNotFoundError:
     print("File can't be found!!")
