@@ -1,2 +1,3 @@
-# Self-Projects
-Here are all my projects that I create while I am learning something or have learnt something new and want to apply it.
+# PROJECTS
+
+Building practical solutions to everyday challenges, one project at a time. Here, you will find projects that tackle real world problems with clean and thoughtful code.
