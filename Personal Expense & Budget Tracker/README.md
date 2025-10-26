@@ -11,7 +11,7 @@ The app 'Personal Expense and Budget Tracker' is an app which:
 - As a result of constant improvement, each version is developed once a month on average, sometimes way more or less than that depending on how big the issue is.
 
 ## Reminders
-You can email me [![here](https://img.shields.io/badge/Email-Cybro-blue?logo=gmail)](mailto:amritgtm18@gmail.com?subject=Feedback%20on%20%your%project&body=Hey%20cybro,%0A) if you:
+You can email me [![Mail](https://img.shields.io/badge/here)](mailto:amritgtm18@gmail.com?subject=Feedback%20on%20%your%project&body=Hey%20cybro,%0A) if you:
 -  Found a bug in this app.
 -  Wants to use the app but it is too limited in features.
 -  Wants to contact me regarding this app.
