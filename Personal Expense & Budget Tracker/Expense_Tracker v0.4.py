@@ -15,7 +15,6 @@ from tkinter import messagebox
 
 filename = "Expenses.csv"
 
-
 class Expenses:
     def __init__(self, file_name=filename):
         self.filename = file_name
