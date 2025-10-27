@@ -1,9 +1,10 @@
 # About app
 The app 'Personal Expense and Budget Tracker' is an app which:
-- Lets you add the category, amount of the expenses and notes is you want your future self to know something after seeing it.
-- Gives you abilities to edit value of any row/column you want.
-- Allows you to delete any category/row you want.
-- Enables you to delete all values of any column you want.
+- Lets you add the category, amount of the expenses and notes if you want your future self to know something after seeing it.
+- Allows you to:
+   - Edit value of any row/column you want.
+   - Delete any category/row you want.
+   - Delete all values of any column you want.
 
 ## About updates
 - If the older version is limited in features, then newer version will be developed by adding new features to it.
@@ -27,8 +28,6 @@ Sure, there might be alot better apps out there but my friends are some of the b
    - Delete a row
    - Delete a column
    - Comparing expenses in graphs
-3. **v0.6: GUI based** - New version was created by making it gui based and a cleaner/smoother interface was given to user, but comparing expenses in graph feature & show total spent feature wasn't included.
-4. **V1.0: GUI bassed** - New version was created by fixing the bugs of earlier version, including the lost feature and reducing user's effort as much as possible by making user take decisions by via clickable options.
+3. **v0.3: GUI based** - New version was created by making it gui based and a cleaner/smoother interface was given to user, but comparing expenses in graph feature & show total spent feature wasn't included.
+4. **v0.4: GUI bassed** - New version was created by fixing the bugs of earlier version, including the lost feature and reducing user's effort as much as possible by making user take decisions by via clickable options.
 
-### Note regarding version increments
-Version number is increased on the basis of how much the newer version has been improved compared to older version.
